@@ -1,9 +1,12 @@
 # newproject
 
 News Article App.
-This Flutter project integrates with the NewsAPI.org service to fetch and display the latest news articles. It provides a structured way to parse, manage, and display news data in a mobile application\n.
+This Flutter project integrates with the NewsAPI.org service to fetch and display the latest news articles. It provides a structured way to parse, manage, and display news data in a mobile application.      
+
 Asynchronous Data Fetching – Uses FutureBuilder to load news data asynchronously and display a loading state.
+
 Structured Data Models – Uses Dart classes (NewsApiResponse, Article, Source) to parse JSON responses into typed objects.
+
 Clean Architecture – Separates data models, API logic, and UI for better maintainability.
 ## Getting Started
 
